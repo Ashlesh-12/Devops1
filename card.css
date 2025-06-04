@@ -35,7 +35,7 @@ body {
     height: 100vh;
     margin: 0;
 }
-
+/* It will give the card features */
 .card {
     background-color:white;
     padding: 20px;
